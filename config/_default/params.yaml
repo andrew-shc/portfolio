@@ -6,6 +6,7 @@
 # Appearance
 
 appearance:
+  mode: light
   theme_day: custom
   theme_night: custom
   font: minimal
@@ -34,13 +35,13 @@ header:
     align: l
     show_logo: false
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: false
 
 footer:
   copyright:
-    notice: '© {year} Andrew Shen. This work is licensed under {license}'
+    notice: '© {year} Andrew Shen'
     # license:
     #   enable: false
     #   allow_derivatives: false
