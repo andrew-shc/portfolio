@@ -1,11 +1,6 @@
 // @import 'https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap';
 
-@font-face {
-    font-family: 'Lora';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Lora'), url('fonts/Lora-Regular.ttf');
-}
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 
 
 // https://rosepinetheme.com/palette/
@@ -19,4 +14,4 @@
 body {
     background-color: #faf4ed;
 }
-  
+
