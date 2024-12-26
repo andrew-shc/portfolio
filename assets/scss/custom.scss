@@ -1,11 +1,8 @@
-@font-face {
-    font-family: 'Open Sans';
-    src: url(./static/fonts/Lora-Regular.ttf) format('truetype');
-}
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 
 // https://rosepinetheme.com/palette/
 
 body {
-    font-family: 'Open Sans', Lora-Regular;
+    font-family: 'Lora', serif;
     background-color: #faf4ed;
 }
