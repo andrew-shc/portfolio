@@ -85,17 +85,17 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search:
-    provider: ''
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
-  map:
-    provider: ''
-    api_key: ''
-    zoom: 15
+  # search:
+  #   provider: ''
+  #   algolia:
+  #     app_id: ''
+  #     api_key: ''
+  #     index_name: ''
+  #     show_logo: false
+  # map:
+  #   provider: ''
+  #   api_key: ''
+  #   zoom: 15
 
 extensions:
   cms:
